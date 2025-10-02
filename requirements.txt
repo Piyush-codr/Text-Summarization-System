@@ -3,7 +3,7 @@ gunicorn==23.0.0
 
 # Core ML/AI
 tensorflow-cpu==2.20.0
-torch==2.8.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+torch==2.8.0
 transformers==4.56.2
 scikit-learn==1.7.2
 pandas==2.3.3
